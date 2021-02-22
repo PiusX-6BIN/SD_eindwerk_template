@@ -44,27 +44,27 @@
 > 
 > Takenlijst:
 > 1. Games:
->    - spel 1 ontwerpen
->    - spel 1 uitwerken
->    - spel 2 ontwerpen
->    - spel 2 uitwerken
->    - spel 3 ontwerpen
->    - spel 3 uitwerken
+>    - spel 1 ontwerpen (V)
+>    - spel 1 uitwerken (V)
+>    - spel 2 ontwerpen (V)
+>    - spel 2 uitwerken (V)
+>    - spel 3 ontwerpen (O)
+>    - spel 3 uitwerken (O)
 > 2. Database:
->    - database ontwerpen voor: gebruikers, wachtwoorden en commentaren
->    - ontwerp normaliseren
->    - database implementeren in PHPMyAdmin
+>    - database ontwerpen voor: gebruikers, wachtwoorden en commentaren (V)
+>    - ontwerp normaliseren (O)
+>    - database implementeren in PHPMyAdmin (V)
 > 2. Website:
->    - website ontwerpen
->    - HTML uitwerken voor hoofdpagina en tutorialpagina
->    - Voorbeeld-commentaren toevoegen in HTML
->    - CSS uitwerken voor hoofdpagina en tutorialpagina
->    - Login-popup maken
->    - Login-formulier in login-popup maken
->    - Login-formulier laten werken met PHP
->    - Voorbeeld-commentaren vervangen door commentaren uit database met PHP
->    - Commentaar-formulier toevoegen
->    - Commentaar-formulier laten werken met PHP
+>    - website ontwerpen (V)
+>    - HTML uitwerken voor hoofdpagina en tutorialpagina (V)
+>    - Voorbeeld-commentaren toevoegen in HTML (O)
+>    - CSS uitwerken voor hoofdpagina en tutorialpagina (V)
+>    - Login-popup maken (O)
+>    - Login-formulier in login-popup maken (O)
+>    - Login-formulier laten werken met PHP (O)
+>    - Voorbeeld-commentaren vervangen door commentaren uit database met PHP (V)
+>    - Commentaar-formulier toevoegen (V)
+>    - Commentaar-formulier laten werken met PHP (V)
 > 
 > Planning:
 > 1. DEADLINE 1 (**30 maart**)
